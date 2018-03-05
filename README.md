@@ -11,6 +11,7 @@ now we can Use the Function in the UDF.
 All functions should be self-explanatory. 
 See:
 _Steem_Get_Account($name)
+
 Here you see the $name thats meen your Steemname
 and here :
 _Steem_Get_Content_Replies($name, $permalink)
